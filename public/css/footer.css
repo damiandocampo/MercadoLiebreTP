@@ -1,0 +1,11 @@
+footer {
+text-align: center;}
+
+
+footer section{margin: 30px 25px;}
+footer section i {
+    margin-bottom: 15px;
+    font-size: 2em;
+    color: var(--color-celeste);
+}
+

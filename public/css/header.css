@@ -1,0 +1,54 @@
+header {
+    background-color:var(--color-amarillo);
+}
+
+body header section{
+    width: 60%;
+}
+
+header form button{
+    display: block;
+}
+
+body header p i {
+    margin-top: 10px;
+}
+
+div.burger-menu{
+
+   text-align:center ;
+}
+.burger-menu i{
+    margin: 10px 0px;
+    color: white;   
+    background-color: var(--color-celeste);
+    padding: 10px;
+    border-radius:7px ;
+    
+}
+header section img{
+    margin: 30px;
+
+}
+
+header form input{ 
+    margin-left: 5px;
+}
+
+header form button {
+    margin-left: 5px;
+}
+
+
+nav ul li a { font-size: 13px;
+    color: black;
+}
+
+header p{
+    margin: 15px 0px;
+    text-align: center;
+}
+
+.lista1 {
+    margin-bottom: 15px;
+}

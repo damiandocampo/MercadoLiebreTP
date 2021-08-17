@@ -1,0 +1,22 @@
+section article p{font-size: var(--precios);
+
+}
+
+.baner {
+    display: none;
+}
+
+main section h3{font-size: var(--titulares);
+
+}
+
+article h4 { font-size: var(--descuentos-descripciones)}
+
+section article{
+    margin: 10px 10px;
+}
+
+main{
+    background-color: var(--gris-claro);}
+
+section article span{font-size: var(--descuentos-descripciones);}
