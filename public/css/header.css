@@ -18,6 +18,11 @@ div.burger-menu{
 
    text-align:center ;
 }
+
+header nav ul{
+    display:none
+}
+
 .burger-menu i{
     margin: 10px 0px;
     color: white;   
@@ -51,4 +56,13 @@ header p{
 
 .lista1 {
     margin-bottom: 15px;
+}
+
+@media(min-width:361px){
+    .burger-menu i{
+        display: none;
+  }
+  header nav ul{
+      display:block
+  }
 }

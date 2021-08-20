@@ -1,5 +1,11 @@
 footer {
-text-align: center;}
+text-align: center;
+background-color: white;
+padding-top: 60px;
+margin: 0 7px;
+}
+
+
 
 
 footer section{margin: 30px 25px;}
@@ -7,5 +13,10 @@ footer section i {
     margin-bottom: 10px;
     font-size: 2em;
     color: var(--color-celeste);
+}
+
+.copy{
+    margin-left: -50px;
+    padding-bottom: 20px;
 }
 
